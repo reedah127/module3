@@ -30,7 +30,7 @@ section{
     background-color: #FFFFEE;
     border-width: .5ex .5ex .5ex 5ex;
     border-style: solid;
-    border-color: #008001;
+    border-color: #008080;
     text-align: left;
     padding-left: 10px;
     
@@ -52,7 +52,7 @@ aside{
     padding-top: 50px;
     padding-left: 30px;
     padding-right: 10px;
-    border-right: 5ex solid #444467;
+    border-right: 5ex solid #000080;
     
 }
 
